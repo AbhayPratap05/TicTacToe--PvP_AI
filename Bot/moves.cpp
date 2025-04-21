@@ -36,8 +36,5 @@ void botMove(char *board, char bot){
             board[botMove] = bot;
             validMove = true;
         }
-        
     }
-    
-    
 }
